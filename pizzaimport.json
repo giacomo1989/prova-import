@@ -1,3 +1,14 @@
-{
-      "price": "alle 18.43 ci sono riuscito"
+
+
+{"People": 
+    [
+      {
+        "name": "Sally",
+        "age": "10"
+      },
+      {
+        "name": "Greg",
+        "age": "10"
+      }
+    ]
 }
