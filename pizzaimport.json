@@ -1,12 +1,8 @@
 {
-    "cars": {
-        "Nissan": [
-            {"model":"Sentra", "doors":4},
-            {"model":"Maxima", "doors":4}
-        ],
-        "Ford": [
-            {"model":"Taurus", "doors":4},
-            {"model":"Escort", "doors":4}
-        ]
+    "precio":{
+     "margherita": "ok prezzo margherita",
+     "diavola": "ok prezzo diavola",
+     "capricciosa": "ok prezzo capricciosa"  
+     
     }
 }
