@@ -1,10 +1,3 @@
 {
-
-	"pizza":	[
-   {
-      "name"  : "ok funziona",
-      "cost"     : "22"
-   }
-		]
-
+      "price": "5,50 euro"
 }
