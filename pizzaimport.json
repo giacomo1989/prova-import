@@ -1,8 +1,8 @@
 {
     "precio":{
-     "margherita": "ok prezzo margherita",
-     "diavola": "ok prezzo diavola",
-     "capricciosa": "ok prezzo capricciosa"  
+     "margherita": "3,90",
+     "diavola": "5,90",
+     "capricciosa": "6,20"  
      
     }
 }
